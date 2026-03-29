@@ -1,0 +1,8 @@
+*.env
+!.env.example
+bin/
+vendor/
+*.test
+*.out
+.DS_Store
+infra/grafana/data/
